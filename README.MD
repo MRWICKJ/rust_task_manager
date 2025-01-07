@@ -118,4 +118,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 ## 📧 Contact
 
 * **GitHub:**[MRWICKJ](https://github.com/MRWICKJ)
-* **Email:**[YourEmail@example.com](mailto:haldershubhendu2@gmail.com)
+* **Email:**[haldershubhendu2@gmail.com](mailto:haldershubhendu2@gmail.com)
