@@ -30,7 +30,7 @@ A simple and interactive CLI-based Task Manager application built with Rust. Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MRWICKJ/rust-task-manager.git
+   git clone https://github.com/MRWICKJ/rust_task_manager.git
    cd rust-task-manager
    ```
 
